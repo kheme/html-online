@@ -1,0 +1,10 @@
+.forCode {text-align:left;font-family:courier new, courier, mono;font-size:8pt;border-collapse:collapse;border:1px solid #cccccc;background-color:#f2f5f9;}
+.forCopyright {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;color:#666666;}
+.forTexts {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:11px;color:#333333;line-height:16px;}
+.forForms {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:11px;color:#000000;border:1px inset;}
+.forButton {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:11px;color:#000000;border:1px outset;}
+a {color:#336699;font-weight:bold;}
+a:visited {color:#336699}
+h1,h2,h3,h4,h5 {color:#084A8D;}
+a:hover {text-decoration:none}
+iframe {display:none}
